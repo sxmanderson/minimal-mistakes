@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "LukeAnderson.io"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Luke Anderson"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Luke Anderson"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Professional software developer, semi-pro music developer, and amateur flâneur."
+  location         : "Michigan"
+  email            : "sxmanderson@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -75,12 +75,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "sxmanderson"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "lucas-anderson-408a8232"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
