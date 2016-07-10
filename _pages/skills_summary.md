@@ -5,6 +5,8 @@ title: "Skills summary"
 author_profile: true
 ---
 
+{% include toc %}
+
 ### C# / .NET
 - Foo
 - Bar

@@ -5,6 +5,7 @@ title: "Luke W. Anderson, software developer"
 ---
 
 ### sxmanderson@gmail.com
+{: .text-center}
 
 ### 906.236.5117
 
@@ -12,7 +13,6 @@ title: "Luke W. Anderson, software developer"
 ### Application Developer
 
 #### April 2015 - current
-
 
 
 - Maintained and added functionality to .NET customer portal app, using C#, SQL, Razor and CSLA
@@ -26,8 +26,6 @@ title: "Luke W. Anderson, software developer"
 - Maintained company websites and developed new pages as needed
 
 - Automated and overhauled reporting process via SQL queries and Excel PowerPivot tables, eliminating 100+ hours busywork monthly
-
-
 
 
 ### Intern Developer
