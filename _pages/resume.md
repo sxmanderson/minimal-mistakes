@@ -1,10 +1,8 @@
 ---
-permalink: /resume/
+permalink: /resume
 layout: single
 title: "Luke W. Anderson, software developer"
 ---
-
-## Luke W. Anderson
 
 ### sxmanderson@gmail.com
 
@@ -21,7 +19,7 @@ title: "Luke W. Anderson, software developer"
 
 - Administered internal AngularJS web app and reformulated multi-view design into single modular page
 
-- Developed reusable Angular module for shopping cart, using Bower for version control across multiple projects and maintaining its private GitHub repository
+- Developed reusable Angular module for shopping cart app, using Bower for version control across multiple projects and maintaining its private GitHub repository
 
 - Development on mobile app version of customer portal site; compiled to Android and iOS, using Ionic framework, Cordova and Node.js to run in test, Karma and Protractor for unit and e2e testing
 
