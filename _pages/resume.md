@@ -5,7 +5,6 @@ layout: single
 
 # Luke Anderson
 {: .text-center}
-
 ## Software engineer
 {: .text-center}
 
