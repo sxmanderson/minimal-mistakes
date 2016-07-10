@@ -9,7 +9,7 @@ author_profile: true
 
 ### C# / .NET
 - Foo
-- Bar
+- Designed ASP.NET Dynamic Data site for internal use, allowing employees to 
 - Baz
 
 ### SQL Server / T-SQL

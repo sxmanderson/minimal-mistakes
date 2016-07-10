@@ -4,11 +4,12 @@ layout: single
 title: "Luke W. Anderson, software developer"
 ---
 
-### sxmanderson@gmail.com
+### sxmanderson@gmail.com * 906.236.5117
 {: .text-center}
 
-### 906.236.5117
+## Employment
 
+---
 
 ### Application Developer
 
@@ -41,7 +42,9 @@ title: "Luke W. Anderson, software developer"
 - Developed tracking and analysis system for an outbound welcome-call campaign
 
 
-### Education
+## Education
+
+---
 
 - B.A. in Computer Science, Mathematics minor, from Northern Michigan University
 
@@ -50,7 +53,9 @@ title: "Luke W. Anderson, software developer"
 - Member of Association for Computing Machinery, WUPX-FM and The North Wind Student Newspaper
 
 
-### Languages and Technologies
+## Languages and Technologies
+
+---
 
 - Currently used:  C#, JavaScript, AngularJS, jQuery, HTML, CSS T-SQL
 
@@ -61,4 +66,8 @@ title: "Luke W. Anderson, software developer"
 - Operating systems:  Linux, Windows, Windows Server
 
 
-### Additional Interests
+## Additional Interests
+
+---
+
+Foo bar baz
