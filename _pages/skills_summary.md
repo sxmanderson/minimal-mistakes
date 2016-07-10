@@ -2,6 +2,7 @@
 permalink: /skills_summary
 layout: single
 title: "Skills summary"
+author_profile: true
 ---
 
 ### C# / .NET
