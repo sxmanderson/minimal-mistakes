@@ -3,6 +3,7 @@ permalink: /resume
 layout: single
 title: "Luke W. Anderson, software developer"
 ---
+{: .text-center}
 
 ### sxmanderson@gmail.com * 906.236.5117
 {: .text-center}
