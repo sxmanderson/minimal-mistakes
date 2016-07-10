@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "LukeAnderson.io"
 title_separator          : "-"
 name                     : "Luke Anderson"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Personal website for Luke Anderson, software developer"
+url                      : "http://lukeanderson.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -64,7 +64,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Luke W. Anderson"
-  avatar           : "bio-photo.jpg"
+  avatar           : "biopic01.jpg"
   bio              : "Professional software developer, semi-pro music developer, and amateur flâneur."
   location         : "Michigan"
   email            : "sxmanderson@gmail.com"
