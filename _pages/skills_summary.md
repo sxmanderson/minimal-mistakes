@@ -14,8 +14,8 @@ author_profile: true
 - Spearheaded project to allow customer portal access to third-party business partners
   - Rewrote and refactored controllers to accommodate alternate business rules and new product lines
   - Redesigned views to allow for custom user experience
-  - Coordinated with engineering and marketing teams to 
-- Designed ASP.NET Dynamic Data site for internal use, allowing call center managers easy access to call log data
+- Rewrote batch-payment processes to migrate to new credit card processing service
+- Designed ASP.NET Dynamic Data site for internal use, allowing call center managers GUI-type access to call log data
 
 ### SQL Server / T-SQL
 - During customer portal project, expanded product selection by 15%, along with integrating new product lines into billing and inventory databases
@@ -34,11 +34,11 @@ author_profile: true
 
 ### Web development: HTML / CSS / JavaScript
 - Sole maintainer of company websites
-- Add and edit pages within style guidelines
-- Troubleshoot and add functionality to JavaScript and jQuery scripts
-- Add new JavaScript features on request
+  - Add and edit pages within style guidelines
+  - Troubleshoot and add functionality to JavaScript and jQuery scripts
+  - Add new JavaScript features on request
 
 ### Misc Skills
-- Strong language and communications skills
+- Strong language and communication skills
   - Former news editor and managing editor of NMU's The North Wind Student Newspaper
-  - Clear and consistent communications skills honed as the remote member of TelNet's development team
+  - Clear and consistent communication skills improved as the remote member of TelNet's development team
