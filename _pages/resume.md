@@ -31,6 +31,8 @@ layout: single
 
 - Development on mobile app version of customer portal site; compiled to Android and iOS, using Ionic framework, Cordova and Node.js to run in test, Karma and Protractor for unit and e2e testing
 
+- Rewrote credit card batch-payment processes to use a new processing service
+
 - Automated and overhauled reporting process via SQL queries and Excel PowerPivot tables, eliminating 100+ hours busywork monthly
 
 
@@ -69,10 +71,3 @@ layout: single
 - Frameworks and technologies:  Visual Studio, SQL Server, Team Foundation Server, SQL Server Reporting Services, ASP.NET, Git, IIS, Excel, BASH
 
 - Operating systems:  Linux, Windows, Windows Server
-
-
-## Additional Interests
-
----
-
-Foo bar baz

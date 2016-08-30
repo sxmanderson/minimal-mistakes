@@ -19,11 +19,11 @@ author_profile: true
 
 ### SQL Server / T-SQL
 - During customer portal project, expanded product selection by 15%, along with integrating new product lines into billing and inventory databases
-- Maintainer of company data warehouse, 
-- Wrote several dozen stored procedures, and debugged and documented others
+- Maintainer of company data warehouse
+- Wrote several dozen stored procedures, debugged and documented others
 
 ### PowerShell
-- Leader of project to standardize company's automated script base to PowerShell
+- Leader of project to standardize company's multi-language automated script base to PowerShell
   - Rewrote scripts originally written in KSH, BASH, Perl and Python
   - Documented script functionality where missing or incomplete
   - Added missing error- and sanity-checking where applicable
@@ -42,3 +42,7 @@ author_profile: true
 - Strong language and communication skills
   - Former news editor and managing editor of NMU's The North Wind Student Newspaper
   - Clear and consistent communication skills improved as the remote member of TelNet's development team
+  - Contributed to internal development wiki
+  - Wrote documentation on existing programs and methods where overlooked
+- Microsoft Excel
+  - Worked with PowerPivot tables, PowerQuery, VB macros, and multiple functions
