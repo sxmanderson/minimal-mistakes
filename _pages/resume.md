@@ -23,7 +23,7 @@ layout: single
  - .NET / C# backend developer
  - Experienced in SQL database management
  - Scripting skills in PowerShell, Python, Ruby, BASH and KSH
- - Website maintenance, updates and troubleshooting using HTML/CSS/JavaScript, jQuery and AngularJS
+ - Website maintenance experience in HTML/CSS/JavaScript, including jQuery and AngularJS
  - 2016 Q4 Employee of the Quarter, TelNet Worldwide
 
 
