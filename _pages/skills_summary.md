@@ -14,6 +14,7 @@ author_profile: true
 - Spearheaded project to allow customer portal access to third-party business partners
   - Rewrote and refactored controllers to accommodate alternate business rules and new product lines
   - Redesigned views to allow for custom user experience
+  - Completed project in half the allotted time
 - Rewrote batch-payment processes to migrate to new credit card processing service
 - Designed ASP.NET Dynamic Data site for internal use, allowing call center managers GUI-type access to call log data
 

@@ -9,8 +9,23 @@ layout: single
 ## Software engineer
 {: .text-center}
 
-### sxmanderson@gmail.com * 906.236.5117
+### sxmanderson@gmail.com 
 {: .text-center}
+
+### 906.236.5117
+{: .text-center}
+
+
+## Highlights / Summary
+
+---
+
+ - .NET / C# backend developer
+ - Experienced in SQL database management
+ - Scripting skills in PowerShell, Python, Ruby, BASH and KSH
+ - Website maintenance, updates and troubleshooting using HTML/CSS/JavaScript, jQuery and AngularJS
+ - 2016 Q4 Employee of the Quarter, TelNet Worldwide
+
 
 ## Employment
 
@@ -18,7 +33,7 @@ layout: single
 
 ### Application Developer
 
-#### April 2015 - current
+#### April 2015 - Current
 
 
 - Expanded functionality of customer portal to allow customized access for business partners, requiring wide-ranging overhauls of C# code and expansion of SQL data warehouse
