@@ -14,7 +14,9 @@ header:
 
 I'm Luke, experienced software engineer, and this is my webpage/digital resume. 
 
-I have a bachelor's degree in computer science from Northern Michigan University and over two years' industry experience in both Windows and Linux environments. My professional work has focused mainly on .NET and C# applications, SQL Server, web programming, and scripting. I currently work for TelNet Worldwide, where I was named the Team Member of the Quarter for Q4 2016. My yearly performance reviews consistently range between "Exceeds" to "Greatly Exceeds" expectations, and have included such plaudits as:
+I have a bachelor's degree in computer science from Northern Michigan University and over two years' industry experience in both Windows and Linux environments. My professional work has focused mainly on .NET and C# applications, SQL Server, web programming, and scripting. I currently work for TelNet Worldwide, where I was named the Team Member of the Quarter for Q4 2016. 
+
+My yearly performance reviews consistently range between "Exceeds" to "Greatly Exceeds" expectations, and have included such plaudits as:
 
 - "He learns new tech easily."
 
